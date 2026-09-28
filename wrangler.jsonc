@@ -1,6 +1,8 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "hesapmakinesi",
+  "workers_dev": false,
+  "preview_urls": false,
   "compatibility_date": "2026-06-01",
   "observability": {
     "enabled": true
